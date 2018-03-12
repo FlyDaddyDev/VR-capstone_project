@@ -9,7 +9,7 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - I used three pictures from a Toptal blog post, along with some thoughts and ideas: [Toptal LLC](https://www.toptal.com/virtual-reality/virtual-reality-in-the-automotive-industry).
 
 ## Project Info
-- The video walkthrough can be found at [FlyDaddyDevelopments](flydaddydevelopments.com/videos)
+- The video walkthrough can be found at [FlyDaddyDevelopments](https://flydaddydevelopments.com/videos)
 - This project was created by Mark Heussner
 - This project was built for iOS.
 
@@ -25,5 +25,4 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 3) Alternative Storyline (250)
 ### Challenges
 1) User Testing (250 * 2 = 500)
-- 
 
